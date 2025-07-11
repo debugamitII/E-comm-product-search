@@ -1,7 +1,0 @@
-pydantic
-python-dotenv
-langchain-openai
-langchain-groq
-langchain-core
-langchain-community
-langchain
